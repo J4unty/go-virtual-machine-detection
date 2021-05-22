@@ -1,0 +1,4 @@
+github.com/kbinani/screenshot
+github.com/shirou/gopsutil
+github.com/ricochet2200/go-disk-usage/
+github.com/xyproto/cdrom
